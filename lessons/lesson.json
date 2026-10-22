@@ -1,0 +1,88 @@
+{
+  "title": "القدرة والطاقة — مثال بصري بدون تسجيل محاضر",
+  "clips": [
+    {
+      "id": "01-introduction",
+      "source": null,
+      "sourceIn": 0,
+      "duration": 5,
+      "cues": [
+        {
+          "type": "chapter",
+          "start": 0,
+          "duration": 5,
+          "title": "القدرة والطاقة",
+          "lines": ["كيف نميّز بين kW و kWh؟"]
+        }
+      ]
+    },
+    {
+      "id": "02-explanation",
+      "source": null,
+      "sourceIn": 0,
+      "duration": 12,
+      "cues": [
+        {
+          "type": "equation",
+          "start": 0,
+          "duration": 8,
+          "title": "كيف نحسب الطاقة؟",
+          "lines": [
+            "عند ثبات القدرة",
+            "الطاقة = القدرة × الزمن",
+            "جهاز بقدرة 1 كيلوواط يعمل ساعتين"
+          ],
+          "formula": "E = P × t",
+          "result": "1 kW × 2 h = 2 kWh"
+        },
+        {
+          "type": "focus",
+          "start": 8,
+          "duration": 4,
+          "title": "لاحظ وحدة الطاقة: kWh",
+          "x": 5,
+          "y": 38,
+          "w": 41,
+          "h": 39
+        }
+      ]
+    },
+    {
+      "id": "03-compare",
+      "source": null,
+      "sourceIn": 0,
+      "duration": 7,
+      "cues": [
+        {
+          "type": "comparison",
+          "start": 0,
+          "duration": 7,
+          "title": "الفرق في معنى الكمية",
+          "lines": [
+            "القدرة kW: معدل استخدام الطاقة",
+            "الطاقة kWh: كمية الطاقة خلال فترة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-check",
+      "source": null,
+      "sourceIn": 0,
+      "duration": 6,
+      "cues": [
+        {
+          "type": "steps",
+          "start": 0,
+          "duration": 6,
+          "title": "قبل تطبيق المعادلة",
+          "lines": [
+            "تحقّق من وحدات القدرة والزمن",
+            "تأكد أن القدرة ثابتة خلال الفترة",
+            "لو القدرة بتتغيّر، احسب الطاقة على امتداد الزمن"
+          ]
+        }
+      ]
+    }
+  ]
+}
